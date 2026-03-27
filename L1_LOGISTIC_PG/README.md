@@ -5,7 +5,6 @@ MATLAB codes for the paper "Conjugate residual acceleration of proximal gradient
 
 ## Requirements
 - MATLAB 
-- Optimization toolbox required
 
 ## How to run
 Run the following script:
